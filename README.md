@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-My alx system engineering deveps practice
+creates a script that switches the current user to the user betty
