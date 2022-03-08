@@ -1,1 +1,1 @@
-write a script that lists all files with a .gif extension in the current directory and all  its sub-directories
+create a script that decodesacrostics that use the first letter of each line
