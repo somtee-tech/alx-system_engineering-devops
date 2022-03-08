@@ -1,1 +1,1 @@
-display the number of lines that contain the pattern bin in the file /etc/passwd
+display all lines in the file /etc/passwd that do not contain the pattern bin
