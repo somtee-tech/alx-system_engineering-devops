@@ -1,1 +1,1 @@
-Write a script shell that creates a file name exactly Best School\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
+write a script that writes into the file ls_cwd_content the result of the command ls -la. if the file ls_cwd_content already exists, it should be overwitten otherwise create it
