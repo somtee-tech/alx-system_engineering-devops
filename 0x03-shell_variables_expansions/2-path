@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -r /action PATH
+echo /usr/*/action
